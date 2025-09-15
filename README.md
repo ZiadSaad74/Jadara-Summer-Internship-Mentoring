@@ -22,7 +22,7 @@
     - BRD - Template.docx → Base template for the Business Requirements Document (BRD).
     - VRD - Template.docx → Template for the Visual Requirements Document (VRD).
     - Mapping Sheet - template.xlsx → Used to map source fields to target data structures.
-    - Meeting minutes - template.docx → Designed for team leaders. After each meeting, the leader fills it in and uploads it for the rest of the team as a reference. This way, everyone always has a shared recap.
+    - Meeting minutes - template.docx → Designed for team leaders to fill after each meeting and upload it for the rest of the team as a reference to has a shared recap continuously.
 
     - Weekly report for members - template.docx → Weekly reporting structure for each team member.
     - Weekly report for team leader - template.docx → Weekly reporting structure for the team leader.
