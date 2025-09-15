@@ -55,18 +55,14 @@
   - Measures.xlsx → Defined measures and KPIs needed in the business and defined in BRD.
   - Final dashboard.pbix → Full Power BI dashboard inlcuding all the analysis results of KPIs discussed and defined.
   - Time performance (dark & light).jpg → Dashboard page showing performance over time.
+  - Location performance (dark & light).jpg → Dashboard page showing performance by location.
+  - Sales performance (dark & light).jpg → Dashboard page showing sales KPIs.
+  - Detailed report (dark & light).jpg → Drill-down report page.
+  - Summary statistics (dark & light).jpg → Dashboard summary page.
 
-Location performance (dark & light).jpg → Dashboard page showing performance by location.
+- It represents the final implementation and how the team connected business requirements, data modeling, ETL pipelines, and visualization into one complete solution.
 
-Sales performance (dark & light).jpg → Dashboard page showing sales KPIs.
-
-Detailed report (dark & light).jpg → Drill-down report page.
-
-Summary statistics (dark & light).jpg → Dashboard summary page.
-
-🔑 Why this folder matters: It represents the final implementation — how the team connected business requirements, data modeling, ETL pipelines, and visualization into one complete solution.
-
-🚀 How to Explore This Repo
+# How to explore this repo ?
 
 Start with Documentation Templates to see the base structures the team followed.
 
@@ -74,7 +70,7 @@ Move to Team Evaluation to understand how performance was tracked over the 9 wee
 
 Finally, check Team’s Actual Documentations to explore the real project deliverables (BRD, VRD, reports, PBIX dashboards, and screenshots).
 
-🎯 Why This Repo Exists
+# Why this repo exists ?
 
 This repo is not just about deliverables — it’s also about showing the process:
 
