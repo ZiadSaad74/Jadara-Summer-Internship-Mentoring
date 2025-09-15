@@ -2,7 +2,7 @@
 
 - Welcome to my repository as a mentor on a team in the summer internship for Jadara Solutions.
 
-- This repository was created as part of an internship program in our company, where I worked as a mentor guiding a team of interns across different roles:
+- This repo was created as part of an internship program, where I worked as a mentor guiding a team of interns across different roles:
 
   - Business Analyst
   - Data Modellers
