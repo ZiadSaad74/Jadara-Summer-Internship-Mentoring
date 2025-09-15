@@ -62,22 +62,22 @@
 
 - It represents the final implementation and how the team connected business requirements, data modeling, ETL pipelines, and visualization into one complete solution.
 
-# How to explore this repo ?
+# 🔑 How to explore this repo ?
 
-Start with Documentation Templates to see the base structures the team followed.
+- Start with Documentation Templates to see the base structures the team followed.
 
-Move to Team Evaluation to understand how performance was tracked over the 9 weeks.
+- Move to Team Evaluation to understand how performance was tracked over the 9 weeks.
 
-Finally, check Team’s Actual Documentations to explore the real project deliverables (BRD, VRD, reports, PBIX dashboards, and screenshots).
+- Finally, check Team’s Actual Documentations to explore the real project deliverables (BRD, VRD, reports, PBIX dashboards, and screenshots).
 
-# Why this repo exists ?
+# ✅ Why this repo exists ?
 
 This repo is not just about deliverables — it’s also about showing the process:
 
-How a team of interns was guided using structured templates.
+- How a team of interns was guided using structured templates.
 
-How performance was monitored and improved weekly.
+- How performance was monitored and improved weekly.
 
-How all roles came together to deliver a real-world project.
+- How all roles came together to deliver a real-world project.
 
 It’s a reference point for future interns, mentors, or anyone who wants to see how structured training, evaluation, and project execution can come together in one place.
