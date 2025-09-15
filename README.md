@@ -4,7 +4,7 @@
 
 - This repository was created as part of an internship program in our company, where I worked as a mentor guiding a team of interns across different roles:
 
-1- Business Analyst
+  - 1- Business Analyst
 
 2- Data Modellers
 
